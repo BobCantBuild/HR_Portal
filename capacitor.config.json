@@ -1,0 +1,6 @@
+{
+  "appId": "com.ifb.hrportal",
+  "appName": "HR Portal",
+  "webDir": "dist",
+  "icon": "public/icon.png"
+}
